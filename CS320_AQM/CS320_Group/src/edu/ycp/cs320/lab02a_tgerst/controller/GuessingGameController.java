@@ -2,6 +2,8 @@ package edu.ycp.cs320.lab02a_tgerst.controller;
 
 import edu.ycp.cs320.lab02a_tgerst.model.GuessingGame;
 
+//hi this is mikayla. Please don't get corona VIRUS
+
 /**
  * Controller for the guessing game.
  */
